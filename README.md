@@ -3,9 +3,10 @@
 ### 학회 (정보사회미디어학과 데이터사이언스 학회 DAYS)
 - 학회 공식페이지 개발 레포 [링크](https://github.com/jaehoonkimm/days-about-page_DAYS)  
 - 학회원 교육용 Git&Github 사용 가이드 문서 [링크](https://github.com/jaehoonkimm/Education_resource/blob/master/DAYS%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%EC%9C%84%ED%95%9C%20Git%26Github%20%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0_JaehoonKim.pdf)  
+
 - 학회 2020 여름방학 Python&알고리즘 강의 레포 [링크](https://github.com/jaehoonkimm/DAYS_Python-Summer-Class)  
   - Python 개발 환경 세팅 등 가이드 문서 [링크](https://github.com/jaehoonkimm/Education_resource/blob/master/DAYS_%EC%84%B8%EC%85%98%20%EC%A4%80%EB%B9%84%20%EC%95%88%EB%82%B4%EC%84%9C.pdf)
-- 학회 2020 정규활동 [https://github.com/jaehoonkimm/2020-2_DAYS_session]  
+- 학회 2020 정규활동 레포 [링크](https://github.com/jaehoonkimm/2020-2_DAYS_session)  
   - 데이터분석 개인 프로젝트 진행 프로세스 강의 영상 [링크](https://www.youtube.com/watch?v=_OBXYMScFbU)
 --------------------------------------------------------
 ### Python 기초 강의 (교내 튜터링 프로그램)
